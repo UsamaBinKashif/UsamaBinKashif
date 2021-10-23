@@ -12,6 +12,10 @@ live link: https://usamabinkashif.github.io/charitysite.github.io/
 live link: https://usamabinkashif.github.io/academysite.github.io/
 
 
+• Basic Calculator.
+live link: https://usamabinkashif.github.io/BasicCalculator/
+
+
 • Pure Html Css Responsive Navigation Bar.
 live link: https://usamabinkashif.github.io/navbar.github.io/
 
