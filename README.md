@@ -11,6 +11,9 @@ live link: https://usamabinkashif.github.io/charitysite.github.io/
 • Academy Website (Fully Mobile Friendly).
 live link: https://usamabinkashif.github.io/academysite.github.io/
 
+• Stop Watvh with Ui
+live link: https://usamabinkashif.github.io/StopWatch/
+
 
 • Basic Calculator.
 live link: https://usamabinkashif.github.io/BasicCalculator/
