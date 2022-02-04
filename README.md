@@ -1,5 +1,4 @@
 # Hi, I am Usama 👋🏻 🧑🏻‍💻
-<img src="https://raw.githubusercontent.com/UsamaBinKashif/UsamaBinKashif/master/gh-header-image-cropped.png" alt="banner">
 
 I am a Software Engineer who loves to work on lastest technologies and help people learn and build.
 I am currenlty working on React Native.
