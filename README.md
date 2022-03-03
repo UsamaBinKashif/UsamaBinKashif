@@ -5,5 +5,7 @@ I am currenlty working on React Native.
 
 
 ##Find me around the web.
-- Learning and sharing memes. <a href="https://www.facebook.com/usamasheikh22/">Facebook</a> 
-- Wandering on the streets and taking photographs. <a href="https://www.instagram.com/brownandproud._/">Instagram</a>
+- Sharing memes on  <a href="https://www.facebook.com/usamasheikh22/">Facebook.</a>
+- Sharing information about latest technologis on <a href="https://twitter.com/UsamaBinKashif">Twitter.</a> 
+- Wandering on the streets and taking photographs on <a href="https://www.instagram.com/brownandproud._/">Instagram.</a>
+- Learning with other devs on <a href="https://www.frontendmentor.io/profile/UsamaBinKashif">Frontend Mentor.</a>
