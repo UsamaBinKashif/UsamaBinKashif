@@ -1,4 +1,4 @@
-!["Banner"](https://github.com/UsamaBinKashif/UsamaBinKashif/blob/main/uSama%20ahmed%20(2).png)
+<img src="https://github.com/UsamaBinKashif/UsamaBinKashif/blob/main/uSama%20ahmed%20(2).png">
 I am a Software Engineer who loves to work on lastest technologies and help people learn and build.
 I am currenlty working on React Native.
 
