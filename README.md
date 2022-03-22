@@ -1,5 +1,4 @@
-# Hi, I am Usama 👋🏻 🧑🏻‍💻
-
+![](https://github.com/UsamaBinKashif/UsamaBinKashif/blob/main/uSama%20ahmed.png)
 I am a Software Engineer who loves to work on lastest technologies and help people learn and build.
 I am currenlty working on React Native.
 
