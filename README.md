@@ -20,8 +20,8 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamabinkashif&show_icons=true&locale=en&layout=compact" alt="usamabinkashif" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamabinkashif&show_icons=true&locale=en" alt="usamabinkashif" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamabinkashif&" alt="usamabinkashif" /></p>
 
