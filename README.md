@@ -3,7 +3,6 @@
 
 
 
-</br>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamabinkashif&show_icons=true&locale=en" alt="usamabinkashif" /></p>
@@ -15,6 +14,12 @@
 </br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamabinkashif&show_icons=true&locale=en&layout=compact" alt="usamabinkashif" /></p>
+
+<br>
+<br>
+<br>
+<br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamabinkashif&label=Profile%20views&color=0e75b6&style=flat" alt="usamabinkashif" /> </p>
 
