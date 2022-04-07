@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Usama Ahmed 🧑🏻‍💻</h1>
-<h3 align="center">A passionate frontend developer from Hyderabad Sindh Pakistan.</h3>
+<h3 align="center">A self taught developer from Pakistan.</h3>
 
 
 
