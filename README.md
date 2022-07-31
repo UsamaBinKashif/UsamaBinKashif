@@ -37,9 +37,9 @@ a self taught developer from <strong>Pakistan.</strong> <p><img src="https://cdn
 
 <h3>Lets Connect</h3>
 <p>
- <a href="https://www.linkedin.com/in/usamabinkashif/" target="_blank"><img alt="linkedin" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1658145345~hmac=14c3e79bb9cb673b1a7d0b943c3699e6" width="30"/></a>
+ <a href="https://www.linkedin.com/in/usamabinkashif/" target="_blank"><img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
  <a href="https://www.instagram.com/brownandproud._/" target="_blank"><img alt="instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30"/></a>
- <a href="https://www.facebook.com/usamasheikh22/" target="_blank"><img alt="facebook" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1658145398~hmac=8e0e5fbb33f49fa79bb917f1af6f3c6e" width="30"/></a>
+ <a href="https://www.facebook.com/usamasheikh22/" target="_blank"><img alt="facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30"/></a>
 </p>
  
  
