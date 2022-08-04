@@ -1,6 +1,7 @@
 <h3 align="center">Hi, I'm Usama Ahmed 
-a self taught developer from <strong>Pakistan.</strong> <p><img src="https://cdn-icons.flaticon.com/png/512/5582/premium/5582340.png?token=exp=1658142562~hmac=aeeb4c941cd889207a99205c222acd61" width="50"/></p>
+a self taught developer from <strong>Pakistan.</strong> 
 </h3>
+<p align="center"><img src="https://github.com/UsamaBinKashif/UsamaBinKashif/blob/main/flag.png" width="80"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usamabinkashif&label=Profile%20views&color=0e75b6&style=flat" alt="usamabinkashif" /> </p>
 
 <h3>Things I code with</h3>
@@ -21,9 +22,7 @@ a self taught developer from <strong>Pakistan.</strong> <p><img src="https://cdn
 </p>
 
 
-<p align="center">
- <img src="https://github.com/UsamaBinKashif/UsamaBinKashif/blob/main/programming.gif" width="400" align="center" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usamabinkashif&show_icons=true&locale=en" width="400" />
