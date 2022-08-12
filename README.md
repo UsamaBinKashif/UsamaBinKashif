@@ -4,7 +4,7 @@ a self taught developer from <strong>Pakistan.</strong>
 <p align="center"><img src="https://github.com/UsamaBinKashif/UsamaBinKashif/blob/main/flag.png" width="80"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usamabinkashif&label=Profile%20views&color=0e75b6&style=flat" alt="usamabinkashif" /> </p>
 
-<h3>Things I code with</h3>
+<h3>Techs I code with</h3>
 <p>
  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1a73e8?style=flat-square&logo=css3&logoColor=white" />
@@ -18,6 +18,8 @@ a self taught developer from <strong>Pakistan.</strong>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Expressjs" src="https://img.shields.io/badge/-Express JS-FFFFFF?style=flat-square&logo=Express.JS&logoColor=white" />
+
  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F7B93E?style=flat-square&logo=Firebase&logoColor=white" />
 </p>
 
