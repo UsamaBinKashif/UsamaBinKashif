@@ -19,8 +19,7 @@ a self taught developer from <strong>Pakistan.</strong>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Expressjs" src="https://img.shields.io/badge/-Express JS-FFFFFF?style=flat-square&logo=Express.JS&logoColor=white" />
-
- <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-F7B93E?style=flat-square&logo=Firebase&logoColor=white" />
+ <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
 </p>
 
 
