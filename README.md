@@ -39,10 +39,8 @@ a self taught developer from <strong>Pakistan.</strong>
 
 
 <h3>Lets Connect</h3>
-<p>
- <a href="https://www.linkedin.com/in/usamabinkashif/" target="_blank"><img alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/></a>
- <a href="https://www.instagram.com/brownandproud._/" target="_blank"><img alt="instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30"/></a>
- <a href="https://www.facebook.com/usamasheikh22/" target="_blank"><img alt="facebook" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30"/></a>
-</p>
- 
+<div >
+<a href="https://www.linkedin.com/in/usamabinkashif/"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="https://www.frontendmentor.io/profile/UsamaBinKashif"><img src="https://img.shields.io/badge/Frontend%20Mentor-ffffff?style=for-the-badge&logo=frontend-mentor&logoColor=black" alt="Frontend Mentor" /></a>
+</div>
  
