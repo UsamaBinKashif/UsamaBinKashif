@@ -25,12 +25,19 @@ a self taught developer from <strong>Pakistan.</strong>
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamabinkashif&show_icons=true&locale=en" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamabinkashif&" width="400" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamabinkashif&show_icons=true&locale=en&layout=compact" width="400" />
-</p>
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=UsamaBinKashif&theme=highcontrast)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaBinKashif&show_icons=true&theme=vision-friendly-dark)
+ 
+
+
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaBinKashif&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <p align="center">
     <img src="https://github.com/UsamaBinKashif/UsamaBinKashif/blob/output/github-contribution-grid-snake.svg"/>
