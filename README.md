@@ -43,6 +43,9 @@ a self taught developer from <strong>Pakistan.</strong>
 </p>
 
 
+### Holopin Badges
+[![@usamabinkashif's Holopin board](https://holopin.io/api/user/board?user=usamabinkashif)](https://holopin.io/@usamabinkashif)
+
 
 <h3>Lets Connect</h3>
 <div >
