@@ -29,7 +29,7 @@ a self taught developer from <strong>Pakistan.</strong>
 
 
  
-| <p style="width:200px;"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaBinKashif&show_icons=true&theme=vision-friendly-dark)</p> | <p style="width:215px;"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsamaBinKashif&card_width=400&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) </p> |
+| <p style="width:200px;"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaBinKashif&show_icons=true&theme=vision-friendly-dark)</p> | <p style="width:215px;"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamabinkashif&layout=compact&card_width=400&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) </p> |
 | ------------- | ------------- |
 
 </div>
