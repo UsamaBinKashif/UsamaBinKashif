@@ -42,7 +42,7 @@ a self taught developer from <strong>Pakistan.</strong>
 [![@usamabinkashif's Holopin board](https://holopin.io/api/user/board?user=usamabinkashif)](https://holopin.io/@usamabinkashif)
 
 
-<h3>Lets Connect</h3>
+<h3>Let's Connect</h3>
 <div >
 <a href="https://www.linkedin.com/in/usamabinkashif/"><img src="https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 <a href="https://www.frontendmentor.io/profile/UsamaBinKashif"><img src="https://img.shields.io/badge/Frontend%20Mentor-ffffff?style=for-the-badge&logo=frontend-mentor&logoColor=black" alt="Frontend Mentor" /></a>
