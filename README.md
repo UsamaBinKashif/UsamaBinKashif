@@ -16,9 +16,6 @@ a self taught developer from <strong>Pakistan.</strong>
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Expressjs" src="https://img.shields.io/badge/-Express JS-FFFFFF?style=flat-square&logo=Express.JS&logoColor=white" />
  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
 </p>
 
@@ -29,8 +26,8 @@ a self taught developer from <strong>Pakistan.</strong>
 
 
  
-| <p style="width:200px;"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaBinKashif&show_icons=true&theme=vision-friendly-dark)</p> | <p style="width:215px;"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamabinkashif&layout=compact&card_width=400&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) </p> |
-| ------------- | ------------- |
+<!-- | <p style="width:200px;"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsamaBinKashif&show_icons=true&theme=vision-friendly-dark)</p> | <p style="width:215px;"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamabinkashif&layout=compact&card_width=400&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) </p> |
+| ------------- | ------------- | -->
 
 </div>
 
