@@ -14,7 +14,7 @@
 
 - Currently working as **Full Stack Developer** at Jumpr.
 - Deep diving into **AI**, **DevOps** and **Cloud Infrastructure**.
-- Building **HireSpark**, an AI-powered HR automation platform that streamlines recruitment — from job posting to candidate analysis.
+- Building <a href="https://hirespark.vercel.app"> **HireSpark** </a>, an AI-powered HR automation platform that streamlines recruitment — from job posting to candidate analysis.
 - Always open to collaborating on creative, impactful tech projects
 
 # Tech Stack
