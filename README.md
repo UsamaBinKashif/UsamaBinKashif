@@ -12,7 +12,7 @@
 
 # What I'm Up To
 
-- Currently working as **Full Stack Developer** at Jumpr.
+- Currently working as **Full Stack Developer**.
 - Deep diving into **AI**, **DevOps** and **Cloud Infrastructure**.
 - Building <a href="https://hirespark.vercel.app"> **HireSpark** </a>, an AI-powered HR automation platform that streamlines recruitment — from job posting to candidate analysis.
 - Always open to collaborating on creative, impactful tech projects
@@ -32,7 +32,6 @@
 
 </div>
 
-Leveraging advanced AI tools for chatbots, image generation, and voice processing. Utilizing Claude and Cursor for rapid prototyping and scalable system architecture design.
 
 ## Frontend
 
@@ -58,7 +57,6 @@ Leveraging advanced AI tools for chatbots, image generation, and voice processin
 
 </div>
 
-Building modern, responsive interfaces with React, Next.js, and TypeScript. Expertise in state management (Redux, React Query) and styling frameworks (Tailwind CSS, shadcn/ui) for production-grade performance.
 
 ## Backend & Infrastructure
 
@@ -93,7 +91,6 @@ Building modern, responsive interfaces with React, Next.js, and TypeScript. Expe
 
 </div>
 
-Developing robust backend systems with Node.js, Express.js, Fastify, and NestJS. Integrating databases (Postgres, MongoDB, Redis) with ORMs (Prisma, Sequelize) and managing CI/CD pipelines (GitHub Actions, Docker) for scalable, high-performance applications.
 
 ## Design & Tools
 
@@ -107,7 +104,6 @@ Developing robust backend systems with Node.js, Express.js, Fastify, and NestJS.
 
 </div>
 
-Streamlining project management and collaboration with Figma, Notion, Jira, Slack, and Trello for efficient agile workflows and coordinated product development.
 
 ---
 
