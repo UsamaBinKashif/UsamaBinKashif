@@ -1,14 +1,10 @@
-<!-- <a href="https://browndev.vercel.app/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./header-light.png" />
+<a href="https://browndev.vercel.app/">
     <img
       alt="Usama Ahmed | Full Stack Developer · I own a laptop"
-      src="./header-light.png"
+      src="./banner.png"
       width="100%"
     />
-  </picture>
-</a> -->
+</a>
 
 # What I'm Up To
 
@@ -19,21 +15,20 @@
 
 # Tech Stack
 
-## AI-Tools
+### AI-Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px;">
 
 [![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?logo=openai&logoColor=white)](#)
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 [![Gemini](https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
-[![n8n](https://img.shields.io/badge/n8n-red?logo=n8n&logoColor=fff)](#)
 [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)](#)
 ![BFL](https://img.shields.io/badge/Black%20Forest%20Labs-white?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCIgaGVpZ2h0PSIxZW0iIHN0eWxlPSJmbGV4Om5vbmU7bGluZS1oZWlnaHQ6MSIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMWVtIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5CbGFjayBGb3Jlc3QgTGFiczwvdGl0bGU+PHBhdGggZD0iTTE3LjExMyAxMC4yNDhIMTQuNTZsLTIuNTUzLTMuNjE2LTcuOTYzIDExLjI3aDIuNTU4bDUuNDA1LTcuNjU0aDIuNTUybC01LjQwNCA3LjY1M2gyLjU2NWw1LjM5Mi03LjY1M0wyNCAyMCAxOS45NyAyMHYtMi4wOTFsLTIuODU3LTQuMDQ0LTIuODQyIDQuMDM3VjIwSDBMMTIuMDA4IDNsNS4xMDUgNy4yNDl6Ij48L3BhdGg+PC9zdmc+)
 
 </div>
 
 
-## Frontend
+### Frontend
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px;">
 
@@ -58,7 +53,7 @@
 </div>
 
 
-## Backend & Infrastructure
+### Backend & Infrastructure
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px;">
 
@@ -92,7 +87,7 @@
 </div>
 
 
-## Design & Tools
+### Design & Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px;">
 
@@ -101,10 +96,16 @@
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
+[![n8n](https://img.shields.io/badge/n8n-red?logo=n8n&logoColor=fff)](#)
+
 
 </div>
 
 
----
+# Links that might be of interest:
 
-## I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+- <a href="https://browndev.vercel.app"> **Personal Website** </a> 
+- <a href="https://www.linkedin.com/in/usamabinkashif"> **linkedin.com/in/usamabinkashif** </a> 
+- <a href="mailto:usamabinkashif.98@gmail.com"> **usamabinkashif.98@gmail.com** </a> 
+
+
